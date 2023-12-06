@@ -1,0 +1,1 @@
+export const FILTER_CHECK = "FILTER_CHECK"
